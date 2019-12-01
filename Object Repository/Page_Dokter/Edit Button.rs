@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Edit Button</name>
+   <tag></tag>
+   <elementGuidId>aa198d86-3a43-4161-9939-c19335cd8591</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='doctor']/section/div[3]/div/table/tbody/tr/td[4]/div/a/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAD8SURBVHgB1dK/jcIwFAbwz47TUOU2yG1wKzDBcRtw7ekEVIBEAQ0COqCgZwLEBKyQDWCEdAhw8nhGgAj/FFs0fEWeo8g/PccPeFEELKMqgzYBZan1z27Sipwgg3DpHF9joXXxhElbhCBigEa8Dkiphf/X/crd0SWSaBQxqUeq0h/y9qrpTMv1p3RBUOuFJMS3+c7/a45hJxYuiEdyIQghI9Nk3Cg/PZoN8hCyRe5CLsgN5IqYXN9a6fBM9a8Ncq8jMpXn4sPfFsLUp1ke5LD3vDpOqImXFpakKGAEeZAslGmTAgZWXOfJuFlDjmSO5v0PSgJprNUmMtOKt84eqpK2YwrUvx0AAAAASUVORK5CYII=</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;doctor&quot;)/section[@class=&quot;doctor-datatable&quot;]/div[3]/div[@class=&quot;v-table__overflow&quot;]/table[@class=&quot;v-datatable v-table theme--light&quot;]/tbody[1]/tr[1]/td[4]/div[@class=&quot;action fluid text-xs-right pr-4 pt-1&quot;]/a[@class=&quot;mx-0 v-btn v-btn--flat v-btn--icon v-btn--router theme--light text--text&quot;]/div[@class=&quot;v-btn__content&quot;]/img[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='doctor']/section/div[3]/div/table/tbody/tr/td[4]/div/a/div/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anak (Tambahan)'])[1]/following::img[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ABDI'])[1]/preceding::img[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Spesialis Anak, Psikologi, Dokter Umum, Dokter Gigi'])[1]/preceding::img[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAD8SURBVHgB1dK/jcIwFAbwz47TUOU2yG1wKzDBcRtw7ekEVIBEAQ0COqCgZwLEBKyQDWCEdAhw8nhGgAj/FFs0fEWeo8g/PccPeFEELKMqgzYBZan1z27Sipwgg3DpHF9joXXxhElbhCBigEa8Dkiphf/X/crd0SWSaBQxqUeq0h/y9qrpTMv1p3RBUOuFJMS3+c7/a45hJxYuiEdyIQghI9Nk3Cg/PZoN8hCyRe5CLsgN5IqYXN9a6fBM9a8Ncq8jMpXn4sPfFsLUp1ke5LD3vDpOqImXFpakKGAEeZAslGmTAgZWXOfJuFlDjmSO5v0PSgJprNUmMtOKt84eqpK2YwrUvx0AAAAASUVORK5CYII=')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/img</value>
+   </webElementXpaths>
+</WebElementEntity>
